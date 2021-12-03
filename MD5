@@ -1,0 +1,13 @@
+9933cc0141a947c318479d87bb73f985 *DESCRIPTION
+ed75b6a655f2158865bd4c4fd536faeb *NAMESPACE
+4b95b4f554dd3a6d43b1f3f33e85a704 *R/DR_package.R
+0c559561c011b169588773f292a8a569 *R/DR_plot_package.R
+c79f4c3ad6f00e757e7a15a58569e5b1 *R/DR_stats_package.R
+94fbcd98a04a30ec3c4e0480c73ed8ca *build/vignette.rds
+ce9a0b2a69f010f4f34eeaa1c011a99c *inst/doc/DeductiveR.R
+ae307ac5f854720d3bec5b9bf2bafe82 *inst/doc/DeductiveR.Rmd
+96ab8e7de3fcfe2d6f360c7214976123 *inst/doc/DeductiveR.html
+ff7d4f53fff738ed4451dce156421b0b *man/DR.Rd
+ec00d19055a1da14413124319dd6783b *man/DR_plot.Rd
+d18ad8197718449bac4979772696ee1b *man/DR_stats.Rd
+ae307ac5f854720d3bec5b9bf2bafe82 *vignettes/DeductiveR.Rmd
