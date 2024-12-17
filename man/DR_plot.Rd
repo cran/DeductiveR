@@ -9,8 +9,6 @@ DR_plot(dr)
 \arguments{
 \item{dr}{data frame from DR function}
 }
-\value{None}
 \description{
 Plot the result from the application of the Deductive Rational Method
 }
-

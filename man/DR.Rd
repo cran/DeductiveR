@@ -10,9 +10,7 @@ DR(data)
 \arguments{
 \item{data}{data frame with columns: date - year - month - day - station (Type date and numeric the rest)}
 }
-\value{DR_final: data frame with monthly values that result from the application of the Deductive Rational Method}
 \description{
 Apply the Deductive Rational Method to a monthly series of flow or
 precipitation data to fill in missing data.
 }
-

@@ -9,8 +9,6 @@ DR_stats(dr)
 \arguments{
 \item{dr}{data frame from DR function}
 }
-\value{data_long_month: data frame with statistical summary of monthly value that result from the application of the Deductive Rational Method}
 \description{
 Statistics for the result from the application of the Deductive Rational Method
 }
-
